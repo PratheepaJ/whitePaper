@@ -272,6 +272,15 @@ authors:
       - Department of Data Science, Dana-Farber Cancer Institute, Boston, MA, USA
     funders:
        - NIH
+  - github: PratheepaJ
+    name: Pratheepa Jeganathan
+    initials: PJ
+    orcid: 0000-0002-6467-0180
+    email: pjeganat@stanford.edu
+    affiliations:
+      - Department of Mathematics and Statistics, McMaster University, Hamilton, Canada
+    funders:
+       - XX
   - github: janeroe (PLEASE COPY/PASTE DO NOT EDIT THIS ONE)
     name: Jane Roe
     initials: JR
